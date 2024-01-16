@@ -76,10 +76,18 @@ Como conclusiones generales en la visualización de los datos del dashboard, ten
 
 + 24475 accidentes registrados durante el periodo 2019-2021, los cuales tuvieron 715 víctimas fatales. Para dicho período, los accidentes ocurren en mayor frencuencia entre los meses de noviembre a enero, los fines de semana  y en una franja horaria entre las 05 AM hasta las 9AM.
 
+  🙋‍♂️**Propuesta para su mitigación**: `INCREMENTAR` los recursos necesarios para el control de transito en esa franja horaria, ya que en día hábil corresponde al traslado de las personas a lugares de trabajo, y los fin de semana a salidas de boliches/bares. Con respecto a los meses, `INVESTIGAR` su origen; puede que se deba a época de movimiento turístico, fechas escolares, variación de frecuencias de servicios de transporte, por mencionar algunos. `REALIZAR` campañas publicitarias al respecto, mencionando valores de forma tal invitar a la comunicar ser concientes de cantidad de víctimas fatales.
+
 + De 715 víctimas fatales en accidentes viales, 42% la víctima se trasladaba en moto y 37% la víctima era peatón. El 62% de los accidentes ocurrieron en Avenidas y un 20% en calle/cruce, dejando en monoría autopistas o vias de acceso principal a la ciudad.
   Las comunas 1, 4, 7, 8 y 9 (zona este y sur) representan los lugares donde los accidentes tienen mayor frecuencia.
 
+  🙋‍♂️**Propuestas para su mitigación**: determinar zonas donde se trasladaban las victimas en moto y peatón y `INVESTIGAR` si existe falta de señalización, problemas del camino, falta iluminación, por mencionar algunos; en caso de su ausencia, `DESTINAR` recursos para su mejoría. Con respecto a accidentes en avenidas y calles/cruces, investigar lo mismo.
+
+  Las comunas 1 y 4 son zonas de mucho tránsito vehicular (comercios, entidades estatales, empresas), y al conectarse con las comunas 7, 8 y 9, nos puede indicar que las vias de conexión entre ambas zonas puede ser deficiente para el tránsito y existir puntos de riesgo donde se produzcan esos accidentes. Lo correcto es `INVESTIGAR` más en detalle y `DESTINAR` recursos para una mejoría.
+
 + De un total de 9403 observaciones de factores de riesgo, el uso de celular representan la mayor distracción tanto en autos como en motos. 40% de los datos registrados en automóviles no registraban el uso de cinturón de seguridad por TODOS sus ocupantes, lo cual llama mucho la atención; y el 13% de datos en categoria motos no registraban el uso de casco por TODOS sus ocupantes.
+
+  🙋‍♂️**Propuestas para su mitigación**: Como es elevado el porcentaje de personas que usan el celular mientras conducen, es conveniente incrementar la `SEVERIDAD` de las multas por su uso, asi tambien la cantidad de unidades de control. `CONCIENTIZAR` a la comunidad en el uso de cinturón de seguridad por todos los pasajeros y uso de casco para pasajeros de motos, sin evitar compartir las consecuencias de su ausencia. `ANALIZAR` si existe una relación de dichas observaciones con las zonas donde ocurren los accidentes, ya que se podría abarcar mas focos de riesgo.
 
 
 ## KPIs
