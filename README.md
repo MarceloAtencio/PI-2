@@ -70,6 +70,19 @@ Adicionamente trabajaremos tambien con un dataset acerca de lesiones en siniestr
   También tener en cuenta que los datos de factores de riesgo corresponden a los meses de Octubre y Noviembre 2022. Si bien es un corto periodo de análisis, esa muestra permite ayudarnos a ver la incidencia de distracciones en el día a día de la población.
 
 
+## Etapas de desarrollo
+
+Dentro de github se encuentran los siguientes archivos/carpetas:
+
++ 01 - Datasets: Contiene los archivos originales extraidos desde la web; compuesto por una carpeta con los siniestros viales y otra carpeta con los factores de riesgo
+
++ Datos_FR_Autos.csv: Archivo procesado que contiene los factores de riesgo observados en el manejo de automóviles. Está compuesto por las columnas Año, Mes, Dia hábil, Turno, Zona, Antiguedad, Tipo de distracción y Protección total (uso de cinturón por todos los pasajeros)
+
++ Datos_FR_Motos.csv: Archivo procesado que contiene los factores de riesgo observados en el manejo de motos. Está compuesto por las columnas Año, Mes, Dia hábil, Turno, Zona, Antiguedad, Tipo de distracción y Uso de casco (uso de casco por todos los pasajeros)
+
++ Datos_Homicidios.csv: 
+
+
 ## Análisis de los datos
 
 Como conclusiones generales en la visualización de los datos del dashboard, tenemos:
