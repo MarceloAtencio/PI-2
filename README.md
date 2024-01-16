@@ -98,22 +98,23 @@ El proyecto solicitaba el desarrollo de 2 KPIs:
   
   Definimos a la **tasa de homicidios en siniestros viales** como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
   Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
+
+  ⬆️**Creció 6% aproximadamente dicha tasa, respecto al semestre anterior**☹️
   
 + *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*.
   
   Definimos a la **cantidad de accidentes mortales de motociclistas en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal.
   Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
+  ⬆️**Creció 65% aproximadamente la cantidad de víctimas fatales de motociclistas, respecto al año anterior**☹️
+
 Como tercer indicador se propone:
 
 + *Incrementar en un 5% la relación de uso de cinturon de seguridad en el automóvil (por todos los pasajeros) del ultimo mes, respecto al anterior*.
+
   Defino la relación de uso de cinturon de seguridad como: (Cantidad de observaciones de automoviles CON uso de cinturón de seguridad) / (Cantidad de observaciones de automoviles SIN uso de cinturón de seguridad), en un periodo de tiempo. Mientras más alto el valor, se observa más la presencia de cinturón por todos los pasajeros.
-  
 
-## Reporte de análisis con base al Dashboards
-
-El repositorio debe contener un **Readme** principal donde presenten, en una primera instancia, de forma general **su proyecto** y detallen qué hay en cada archivo/carpeta del propio repositorio. Este Readme no puede ser el mismo de la consigna que nosotros les entregamos.
-A su vez, el Readme debe incluir un **reporte de análisis con base en sus dashboards**, así como el análisis y la funcionalidad de los KPIs sugeridos.
+  ⬇️**Disminuyó 0,14% aproximadamente la relación de uso de cinturon en el automóvil, respecto al mes anterior**☹️
 
 
 ## Fuente de datos
