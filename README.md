@@ -1,17 +1,9 @@
-
-<h2 align='center'>
- <b>Proyecto indivudual n°2 : Siniestros viales<b>
-<h2>
-
 <p align='center'>
-<img src ="https://tn.com.ar/resizer/0zm6gj_iN-FRrwipzV1_C_fz2fQ=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/V4MOERZS2B4M2YOL5PMQ3N4B5I.jpg">
-<p>
+<img src ="https://media.istockphoto.com/id/1211804890/es/foto/buenos-aires-skyline.jpg?s=612x612&w=0&k=20&c=U1l5amCp1qAPQvnE5ji7y2Nqx3WX5zDTODDOrMka0I0=">
+
+
+<h3 align=center> Proyecto Individual Nº2: "SINIESTROS VIALES" </h3>
  
-# <h1 align="center">**`Siniestros viales`**</h1>
-
-## ¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
-
-
 ## Introducción
 
 Ahora si! Manos a la obra! :muscle:
@@ -127,4 +119,3 @@ A su vez, el Readme debe incluir un **reporte de análisis con base en sus dashb
 - [Factores de riesgo viales](https://www.linkedin.com/pulse/qu%C3%A9-es-el-tri%C3%A1ngulo-accidentol%C3%B3gico-factores-de-y-mocondino-r-/?originalSubdomain=es): información acerca de factores de riesgo y triángulo de accidentología.
 
 - [Censo 2022 CABA](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165): Datos de censo nacional realizado en el año 2022.
-
