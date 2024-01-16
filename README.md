@@ -16,7 +16,16 @@
 
 Ahora si! Manos a la obra! 
 
-Para este segundo proyecto indivudual de HENRY tuve que establecer un rol como DATA ANALYST y trabajar
+Para este segundo proyecto indivudual de HENRY tuve que establecer un rol como DATA ANALYST y trabajar con un dataset propuesto.
+Realicé una lectura de los datos, limpieza de la información y armado de dashboard, sumado a información acerca de factores de riesgo que aporte yo y creo aporta valor al análisis.
+
+Espero que el desarrollo del presente proyecto le resulte intuitivo y ameno al lector.
+
+
+## Marco teórico
+
+
+
 Los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran 
 vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o
 peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde 
