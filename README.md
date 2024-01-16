@@ -14,40 +14,47 @@
 
 ## Introducción
 
-Ahora si! Manos a la obra! 
+Ahora si! Manos a la obra! :muscle:
 
 Para este segundo proyecto indivudual de HENRY tuve que establecer un rol como DATA ANALYST y trabajar con un dataset propuesto.
 Realicé una lectura de los datos, limpieza de la información y armado de dashboard, sumado a información acerca de factores de riesgo que aporte yo y creo aporta valor al análisis.
 
-Espero que el desarrollo del presente proyecto le resulte intuitivo y ameno al lector.
+Espero que el desarrollo del presente proyecto le resulte intuitivo y ameno al lector. 😄
 
 
-## Marco teórico
+## Marco teórico acerca de Siniestros Viales
 
+Primero comparto la definición de lo que es un siniestro vial:
 
+*Los **`siniestros viales`** 🚗, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde daños materiales hasta lesiones graves o fatales para los involucrados.*
 
-Los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran 
-vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o
-peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde 
-daños materiales hasta lesiones graves o fatales para los involucrados.
+Los datos a procesar corresponden a información aportada por la Secretaria de Transporte de la Ciudad Autonoma de Buenos Aires, en el cual se detallada la cantidad de homicidios y lesiones en siniestros viales durante un lapso de tiempo.
 
-En el contexto de una ciudad como Buenos Aires, los siniestros viales pueden ser una preocupación importante debido al alto volumen de tráfico y la densidad poblacional. Estos incidentes pueden tener un impacto significativo en la seguridad de los residentes y visitantes de la ciudad, así como en la infraestructura vial y los servicios de emergencia.
+Se toma como referecia dicha ciudad debido al volumen de trafico diario que maneja y población que contiene, siendo más propenso a sufrir accidentes en todo su territorio. Al ser la pricipal ciudad de Argentina, el Gobierno pone foco en las tasas de mortalidad relacionada con siniestros viales y desarrollar politicas para su disminución para mejorar la calidad de vida de las personas, sean argentinas o extranjeros. Por tal motivo el seguimiento de las estadísticas y la implementación de políticas efectivas son esenciales para alcanzar objetivos propuestos.
 
-Las tasas de mortalidad relacionadas con siniestros viales suelen ser un indicador crítico de la seguridad vial en una región. Estas tasas se calculan, generalmente, como el número de muertes por cada cierto número de habitantes o por cada cierta cantidad de vehículos registrados. Reducir estas tasas es un objetivo clave para mejorar la seguridad vial y proteger la vida de las personas en la ciudad.
-
-Es importante destacar que la prevención de siniestros viales involucra medidas como la educación vial, el cumplimiento de las normas de tráfico, la infraestructura segura de carreteras y calles, así como la promoción de vehículos más seguros. El seguimiento de las estadísticas y la implementación de políticas efectivas son esenciales para abordar este problema de manera adecuada.
-<h3>
-
-### **Contexto**
-
-En Argentina, cada año mueren cerca de 4.000 personas en siniestros viales. Aunque muchas jurisdicciones han logrado disminuir la cantidad de accidentes de tránsito, esta sigue siendo la principal causa de muertes violentas en el país.
 Los informes del Sistema Nacional de Información Criminal (SNIC), del Ministerio de Seguridad de la Nación, revelan que entre 2018 y 2022 se registraron 19.630 muertes en siniestros viales en todo el país. Estas cifras equivalen a 11 personas por día que resultaron víctimas fatales por accidentes de tránsito.
 
 Solo en 2022, se contabilizaron 3.828 muertes fatales en este tipo de hechos. Los expertos en la materia indican que en Argentina es dos o tres veces más alta la probabilidad de que una persona muera en un siniestro vial que en un hecho de inseguridad delictiva.
 
-### **Rol a desarrollar**
 
-El `Observatorio de Movilidad y Seguridad Vial` (OMSV), centro de estudios que se encuentra bajo la órbita de la ***Secretaría de Transporte*** del Gobierno de la Ciudad Autónoma de Buenos Aires, nos solicita la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.
+## Información adicional acerca de Factores de Riesgo
+
+Como en nuestra vida cotidiana es usual que tengamos que trasladarnos de un lado a otro, es importante conocer que estamos expuestos a todo tipo de riesgos viales que pueden concatenar en un accidente.
+
+Para los accidentes viales hay 3 factores de riesgo: el medio ambiente, la máquina y el hombre. Dicho trío es conocido como *"El triángulo accidentológico"*
+
++ **`El medio ambiente`**: representa el 2% de los factores causales en accidentes viales. Contituído por las condiciones meteorológicas y las condiciones del camino en sí, que dificulten la maniobrabilidad.
+
++ **`La máquina`**: representa el 3% de los factores causales en accidentes viales. Hace referencia a la herramienta mecánica o automotriz que es utilizado como medio de transporte por parte del usuario. El vehículo dentro de su estructura cuenta con ciertos componentes que contribuyen a evitar o mitigar los resultados de un accidente de tránsito, estos se pueden clasificar como elementos de seguridad vial activa y elementos de seguridad vial pasiva; por ejemplo frenos ABS y cinturones de seguridad, respectivamente.
+
++ **`El hombre`**: representa el **`95%`** de los factores causales en accidentes viales. Corresponden al accionar o hábitos del conductor que interrumpen la correcta conducción de la unidad utilizada. Formar e informar al usuario es vital para que adopte valores permanentes desde el conocimiento.
+
+En esta instancia ampliare información con la suministrada por la Secretaria de Transporte acerca de estudios observacionales de factores de Riesgo Vial en CABA en un periodo de tiempo, tanto para automóviles como para motos.
+
+## Proyecto a desarrollar
+
+La finalidad del proyecto es la elaboración de un proyecto de anális de datos, con el fin de generar información que permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.
+
 Para ello, nos disponibilizan un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Este dataset se encuentra en formato *xlsx* y contiene dos hojas llamadas: **hechos** y **víctimas**. Asimismo, observarán que incluye otras dos hojas adicionales de diccionarios de datos, que les podrá servir de guía para un mayor entendimiento de la data compartida.
 
 Por su parte, en la sección **Material de apoyo** podrán encontrar más información de interés relativa a los datos disponibilizados y al Observatorio que nos encomienda el trabajo.
