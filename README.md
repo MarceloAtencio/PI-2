@@ -80,7 +80,17 @@ Dentro de github se encuentran los siguientes archivos/carpetas:
 
 + Datos_FR_Motos.csv: Archivo procesado que contiene los factores de riesgo observados en el manejo de motos. Está compuesto por las columnas Año, Mes, Dia hábil, Turno, Zona, Antiguedad, Tipo de distracción y Uso de casco (uso de casco por todos los pasajeros)
 
-+ Datos_Homicidios.csv: 
++ Datos_Homicidios.csv: Archivo procesado que contiene información de la cantidad de victimas fatales en siniestros viales. Está compuesto por las columnas ID, Año, Mes, Dia, Lugar, Calle principal, Calle secundaria, número de Comuna, Longitud, Latitud, Victima, Acusado, Rol de la Victima, Sexo, Edad, Fallecido.
+
++  Datos_Lesiones.csv: Archivo procesado que contiene información de la cantidad de victimas fatales en siniestros viales. Está compuesto por las columnas ID, Año, Mes, Dia, Lugar, número de Comuna, Victima, Sexo, Edad, Gravedad.
+
++  EDA.ipynb: todo el proceso de análisis exploratorio de datos realizado para proceder con su presentación en una herramienta gráfica, la cual en este caso fue POWER BI
+
++  ETL_Riesgo.ipynb: Archivo júpiter con los pasos detallados en la lectura de los archivos originales de factores de riesgo, limpieza de datos y porterior almacenamiento a csv.
+
++  ETL_Siniestros.ipynb: Archivo júpiter con los pasos detallados en la lectura de los archivos originales de siniestros viales, limpieza de datos, cruce de información y porterior almacenamiento a csv.
+
++  Siniestros Viales CABA.pbix: archivo de POWER BI en el cual se encuentra plasmado todo el desarrollo de visualización de la información e indicadores
 
 
 ## Análisis de los datos
