@@ -44,7 +44,7 @@ Para los accidentes viales hay 3 factores de riesgo: el medio ambiente, la máqu
 En esta instancia ampliare información con la suministrada por la Secretaria de Transporte acerca de estudios observacionales de factores de Riesgo Vial en CABA en un periodo de tiempo, tanto para automóviles como para motos.
 
 
-## Proyecto a desarrollar
+## Proyecto a desarrollar 
 
 La finalidad del proyecto es la elaboración de un proyecto de anális de datos, con el fin de generar información que permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.
 
@@ -62,7 +62,7 @@ Adicionamente trabajaremos tambien con un dataset acerca de lesiones en siniestr
   Mediante dos archivos júpiter ".ipynb" procedí a la lectura de los datos, selección de aquellas columnas que sean de interés para su análisis, segregación de las mismas, cruce de tablas para facilitar su tratamiento y conversión de los datos en un archivo tipo ".csv", con nomenclaturas que inician con "Datos_".
 
 + `EDA`📖:
-  Realicé el análisis exploratorio de datos en un archivo júpiter ".ipynb", en el cual realicé la busqueda de valores faltantes, valores atípicos, registros duplicados, entre otros.
+  Realicé el análisis exploratorio de datos en un archivo júpiter ".ipynb", en el cual realicé la busqueda de valores faltantes, valores atípicos, eliminación de registros duplicados, visualización de datos, correlación entre variables, conclusiones a priori.
 
 + `Dashboard`🎨:
   Mediante el uso de 5 páginas, implemente interactivamente la interpretación gráfica de los datos para su fácil lectura y que acompañe al storytelling a desarrollar durente la presentación del proyecto.
