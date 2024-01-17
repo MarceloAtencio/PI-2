@@ -70,7 +70,7 @@ Adicionamente trabajaremos tambien con un dataset acerca de lesiones en siniestr
   También tener en cuenta que los datos de factores de riesgo corresponden a los meses de Octubre y Noviembre 2022. Si bien es un corto periodo de análisis, esa muestra permite ayudarnos a ver la incidencia de distracciones en el día a día de la población.
 
 
-## Etapas de desarrollo
+## Contenido de archivos
 
 Dentro de github se encuentran los siguientes archivos/carpetas:
 
